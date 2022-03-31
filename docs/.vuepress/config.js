@@ -1,6 +1,10 @@
 module.exports = {
     title: "《学习大全》",
     description: "学习大全",
+    head: [
+        ["link", { rel: "stylesheet", href: "/common.css" }],
+        // ['link',{rel: 'stylesheet',href='/public/common.css'}]
+    ],
     themeConfig: {
         sidebar: [
             // '/',
@@ -16,6 +20,9 @@ module.exports = {
                             { title: '1.1 人名', path: '/one/preface/name' },
                             { title: '1.2 地名', path: '/one/preface/placename' }
                         ]
+                    },{
+                        title: '第一章 大难不死的男孩',
+                        path: '/one/chapter_1.md'
                     }
 
                 ]
