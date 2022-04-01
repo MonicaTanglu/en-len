@@ -1,5 +1,6 @@
 module.exports = {
-    title: "《学习大全》",
+    base: "/en/",
+    title: "=_=",
     description: "学习大全",
     head: [
         ["link", { rel: "stylesheet", href: "/common.css" }],
@@ -7,7 +8,7 @@ module.exports = {
         // ['link',{rel: 'stylesheet',href='/public/common.css'}]
     ],
     themeConfig: {
-        navbar: false,
+        // navbar: false,
         sidebar: [
             // '/',
             {
