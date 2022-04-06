@@ -31,21 +31,21 @@ drills：钻头
 
 　　He found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock, he was still so worried that he walked straight into someone just outside the door.  
 
-　　"Sorry," he grunted, as the tiny old man stumbled and almost fell. It was a few seconds before Mr. Dursley realized that the man was wearing a violet cloak. He didn't seem at all upset at being almost knocked to the ground. On the contrary, his face split into a wide smile and he said in a squeaky voice that made passersby stare, "Don't be sorry, my dear sir, for nothing could upset me today! Rejoice, for You-Know-Who has gone at last! Even Muggles like yourself should be celebrating, this happy, happy day!"  
+　　"Sorry," he <span class="text">grunted<label class="pop">grunt v.(因为烦恼)咕噜，嘟哝着说</label></span>, as the tiny old man <span class="text">stumbled<label class="pop">stumble v.绊脚；跌跌撞撞地走，踉跄；步履蹒跚</label></span> and almost fell. It was a few seconds before Mr. Dursley realized that the man was wearing a violet cloak. He didn't seem at all upset at being almost knocked to the ground. On the contrary, his face split into a wide smile and he said in a <span class="text">squeaky<label class="pop">adj.嘎吱作响的，发出刺耳声音的</label></span> voice that made <span class="text">passers-by<label class="pop">passer-by n.过滤人，经过者</label></span> stare, "Don't be sorry, my dear sir, for nothing could upset me today! <span class="text">Rejoice<label class="pop">v.感到欣喜；高兴；喜悦</label></span>, for You-Know-Who has gone at last! Even Muggles like yourself should be celebrating, this happy, happy day!"  
 
-　　And the old man hugged Mr. Dursley around the middle and walked off.  
+　　And the old man hugged Mr. Dursley around the middle and <span class="text">walked off<label class="pop">walk off phrase.不通知就离开，突然离开</label></span>.  
 
 　　Mr. Dursley stood rooted to the spot. He had been hugged by a complete stranger. He also thought he had been called a Muggle, whatever that was. He was rattled. He hurried to his car and set off for home, hoping he was imagining things, which he had never hoped before, because he didn't approve of imagination.  
 
 　　As he pulled into the driveway of number four, the first thing he saw -- and it didn't improve his mood -- was the <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span> cat he'd spotted that morning. It was now sitting on his garden wall. He was sure it was the same one; it had the same markings around its eyes.  
 
-　　"Shoo!" said Mr. Dursley loudly. The cat didn't move. It just gave him a stern look. Was this normal cat behavior? Mr. Dursley wondered. Trying to pull himself together, he let himself into the house. He was still determined not to mention anything to his wife.  
+　　"<span class="text">Shoo<label class="pop">v.（挥手）赶走</label></span>!" said Mr. Dursley loudly. The cat didn't move. It just gave him a <span class="text">stern<label class="pop">adj.(人)严厉的，严格的，苛刻的</label></span> look. Was this normal cat behavior? Mr. Dursley wondered. Trying to <span class="text">pull himself together<label class="pop">振作起来，齐心协力，团结起来</label></span>, he let himself into the house. He was still determined not to mention anything to his wife.  
 
-　　Mrs. Dursley had had a nice, normal day. She told him over dinner all about Mrs. Next Door's problems with her daughter and how Dudley had learned a new word ("Won't!"). Mr. Dursley tried to act normally. When Dudley had been put to bed, he went into the living room in time to catch the last report on the evening news:  
+　　Mrs. Dursley had had a nice, normal day. She told him over dinner all about Mrs. Next Door's problems with her daughter and how Dudley had learned a new word ("Won't!"). Mr. Dursley tried to act normally. When Dudley had been <span class="text">put to bed<label class="pop">安顿（孩子、病人或牲畜）去睡</label></span>, he went into the living room in time to catch the last report on the evening news:  
 
-　　"And finally, bird-watchers everywhere have reported that the nation's owls have been behaving very unusually today. Although owls normally hunt at night and are hardly ever seen in daylight, there have been hundreds of sightings of these birds flying in every direction since sunrise. Experts are unable to explain why the owls have suddenly changed their sleeping pattern." The newscaster allowed himself a grin. "Most mysterious. And now, over to Jim McGuffin with the weather. Going to be any more showers of owls tonight, Jim?"
+　　"And finally, bird-watchers everywhere have reported that the nation's owls have been behaving very unusually today. Although owls normally hunt at night and are hardly ever seen in daylight, there have been hundreds of sightings of these birds flying in every direction since sunrise. Experts are unable to explain why the owls have suddenly changed their sleeping pattern." The newscaster allowed himself a <span class="text">grin<label class="pop">n.露齿的笑，咧嘴的笑</label></span>. "Most mysterious. And now, over to Jim McGuffin with the weather. Going to be any more showers of owls tonight, Jim?"
 
-　　"Well, Ted," said the weatherman, "I don't know about that, but it's not only the owls that have been acting oddly today. Viewers as far apart as Kent, Yorkshire, and Dundee have been phoning in to tell me that instead of the rain I promised yesterday, they've had a downpour of shooting stars! Perhaps people have been celebrating Bonfire Night early -- it's not until next week, folks! But I can promise a wet night tonight."  
+　　"Well, Ted," said the weatherman, "I don't know about that, but it's not only the owls that have been acting oddly today. Viewers as far apart as Kent, Yorkshire, and Dundee have been phoning in to tell me that instead of the rain I promised yesterday, they've had a downpour of shooting stars! Perhaps people have been celebrating <span class="text">Bonfire<label class="pop">n.篝火，火堆</label></span> Night early -- it's not until next week, <span class="text">folks<label class="pop">folk n.大伙儿，诸位</label></span>! But I can promise a wet night tonight."  
 
 　　Mr. Dursley sat frozen in his armchair. Shooting stars all over Britain? Owls flying by daylight? Mysterious people in <span class="text">cloaks<label class="pop">cloak n.披风，斗篷，遮盖物</label></span> all over the place? And a whisper, a whisper about the Potters...  
 
@@ -53,17 +53,17 @@ drills：钻头
 
 　　As he had expected, Mrs. Dursley looked shocked and angry. After all, they normally pretended she didn't have a sister.  
 
-　　"No," she said sharply. "Why?"  
+　　"No," she said <span class="text">sharply<label class="pop">adj.尖锐的，严厉的，敏锐的</label></span>. "Why?"  
 
-　　"Funny stuff on the news," Mr. Dursley mumbled. "Owls... shooting stars... and there were a lot of funny-looking people in town today..."  
+　　"Funny stuff on the news," Mr. Dursley <span class="text">mumbled<label class="pop">v.咕哝；含糊地说</label></span>. "Owls... shooting stars... and there were a lot of funny-looking people in town today..."  
 
 　　"So?" snapped Mrs. Dursley.  
 
-　　"Well, I just thought... maybe... it was something to do with... you know... her crowd."  
+　　"Well, I just thought... maybe... it was <span class="text">something to do with<label class="pop">与...有关系</label></span>... you know... her crowd."  
 
-　　Mrs. Dursley sipped her tea through pursed lips. Mr. Dursley wondered whether he dared tell her he'd heard the name "Potter." He decided he didn't dare. Instead he said, as casually as he could, "Their son -- he'd be about Dudley's age now, wouldn't he?"  
+　　Mrs. Dursley sipped her tea through <span class="text">pursed<label class="pop">n.钱包 v.撅起（嘴唇），皱起</label></span> lips. Mr. Dursley wondered whether he dared tell her he'd heard the name "Potter." He decided he didn't dare. Instead he said, as casually as he could, "Their son -- he'd be about Dudley's age now, wouldn't he?"  
 
-　　"I suppose so," said Mrs. Dursley stiffly.  
+　　"I suppose so," said Mrs. Dursley <span class="text">stiffly<label class="pop">adv.生硬地：顽固的</label></span>.  
 
 　　"What's his name again? Howard, isn't it?"  
 
@@ -71,19 +71,19 @@ drills：钻头
 
 　　"Oh, yes," said Mr. Dursley, his heart sinking horribly. "Yes, I quite agree."  
 
-　　He didn't say another word on the subject as they went upstairs to bed. While Mrs. Dursley was in the bathroom, Mr. Dursley crept to the bedroom window and peered down into the front garden. The cat was still there. It was staring down Privet Drive as though it were waiting for something.  
+　　He didn't say another word on the subject as they went upstairs to bed. While Mrs. Dursley was in the bathroom, Mr. Dursley <span class="text">crept<label class="pop">creep v.蹑手蹑脚地移动</label></span> to the bedroom window and peered down into the front garden. The cat was still there. It was <span class="text">staring down<label class="pop">stare down 以目光压倒，把...看得不敢对视下去。使屈服</label></span> Privet Drive as though it were waiting for something.  
 
 　　Was he imagining things? Could all this have anything to do with the Potters? If it did... if it got out that they were related to a pair of -- well, he didn't think he could bear it.  
 
-　　The Dursleys got into bed. Mrs. Dursley fell asleep quickly but Mr. Dursley lay awake, turning it all over in his mind. His last, comforting thought before he fell asleep was that even if the Potters were involved, there was no reason for them to come near him and Mrs. Dursley. The Potters knew very well what he and Petunia thought about them and their kind.... He couldn't see how he and Petunia could get mixed up in anything that might be going on -- he yawned and turned over -- it couldn't affect them....  
+　　The Dursleys got into bed. Mrs. Dursley fell asleep quickly but Mr. Dursley lay awake, turning it all over in his mind. His last, comforting thought before he fell asleep was that even if the Potters were involved, there was no reason for them to come near him and Mrs. Dursley. The Potters knew very well what he and Petunia thought about them and their kind.... He couldn't see how he and Petunia could get mixed up in anything that might be going on -- he <span class="text">yawned<label class="pop">yawn v.打哈欠</label></span> and turned over -- it couldn't affect them....  
 
 　　How very wrong he was.  
 
-　　Mr. Dursley might have been drifting into an uneasy sleep, but the cat on the wall outside was showing no sign of sleepiness. It was sitting as still as a statue, its eyes fixed unblinkingly on the far corner of Privet Drive. It didn't so much as quiver when a car door slammed on the next street, nor when two owls swooped overhead. In fact, it was nearly midnight before the cat moved at all.  
+　　Mr. Dursley might have been <span class="text">drifting<label class="pop">drift v.无意间进入，漂移，漂泊</label></span> into an uneasy sleep, but the cat on the wall outside was showing no sign of sleepiness. It was sitting as still as a <span class="text">statue<label class="pop">drift n.雕像，雕塑</label></span>, its eyes fixed unblinkingly on the far corner of Privet Drive. It didn't so much as <span class="text">quiver<label class="pop">v.颤动；抖动</label></span> when a car door <span class="text">slammed<label class="pop">slam v.(把...)砰地关上</label></span> on the next street, nor when two owls swooped overhead. In fact, it was nearly midnight before the cat moved at all.  
 
-　　A man appeared on the corner the cat had been watching, appeared so suddenly and silently you'd have thought he'd just popped out of the ground. The cat's tail twitched and its eyes narrowed.  
+　　A man appeared on the corner the cat had been watching, appeared so suddenly and silently you'd have thought he'd just <span class="text">popped out<label class="pop">pop out 突然出现/熄灭/死去</label></span> of the ground. The cat's tail twitched and its eyes narrowed.  
 
-　　Nothing like this man had ever been seen on Privet Drive. He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to tuck into his belt. He was wearing long robes, a purple cloak that swept the ground, and high-heeled, buckled boots. His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and crooked, as though it had been broken at least twice. This man's name was Albus Dumbledore.  
+　　Nothing like this man had ever been seen on Privet Drive. He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to <span class="text">tuck<label class="pop">把...塞入；把...藏入</label></span> into his belt. He was wearing long <span class="text">robes<label class="pop">robe n.长袍，罩袍</label></span>, a purple cloak that swept the ground, and high-heeled, buckled boots. His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and <span class="text">crooked<label class="pop">adj.不自然的，歪向一边的</label></span>, as though it had been broken at least twice. This man's name was Albus Dumbledore.  
 
 　　Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy rummaging in his cloak, looking for something. But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street. For some reason, the sight of the cat seemed to amuse him. He chuckled and muttered, "I should have known."  
 
@@ -95,7 +95,7 @@ drills：钻头
 
 　　"How did you know it was me?" she asked.  
 
-　　"My dear Professor, I 've never seen a cat sit so stiffly."  
+　　"My dear Professor, I 've never seen a cat sit so <span class="text">stiffly<label class="pop">adv.生硬地：顽固的</label></span>."  
 
 　　"You'd be stiff if you'd been sitting on a brick wall all day," said Professor McGonagall.  
 
