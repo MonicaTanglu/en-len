@@ -91,7 +91,7 @@ drills：钻头
 
 　　"Fancy seeing you here, Professor McGonagall."  
 
-　　He turned to smile at the <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span>, but it had gone. Instead he was smiling at a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes. She, too, was wearing a cloak, an emerald one. Her black hair was drawn into a tight bun. She looked distinctly ruffled.  
+　　He turned to smile at the <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span>, but it had gone. Instead he was smiling at a rather <span class="text">severe-looking<label class="pop">n. 严肃的</label></span> woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes. She, too, was wearing a cloak, an emerald one. Her black hair <span class="text">was drawn into a tight bun<label class="pop">n. 被卷成一个紧密的发髻</label></span>. She looked distinctly <span class="text">ruffled<label class="pop">n. 起伏的，不平的，起皱的</label></span>.  
 
 　　"How did you know it was me?" she asked.  
 
@@ -217,5 +217,5 @@ drills：钻头
 
 　　"Good luck, Harry," he murmured. He turned on his heel and with a swish of his cloak, he was gone.  
 
-　　A breeze ruffled the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter rolled over inside his blankets without waking up. One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley... He couldn't know that at this very moment, people meeting in secret all over the country were holding up their glasses and saying in hushed voices: "To Harry Potter -- the boy who lived!"
+　　A breeze <span class="text">ruffled<label class="pop">n. 起伏的，不平的，起皱的</label></span> the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter rolled over inside his blankets without waking up. One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley... He couldn't know that at this very moment, people meeting in secret all over the country were holding up their glasses and saying in hushed voices: "To Harry Potter -- the boy who lived!"
 　　
