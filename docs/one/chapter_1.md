@@ -17,7 +17,7 @@ drills：钻头
 
 　　It was on the corner of the street that he noticed the first sign of something <span class="text">peculiar<label class="pop">adj.奇怪的，古怪的；特殊的，独特的，独有的</label></span> -- a cat reading a map. For a second, Mr. Dursley didn't realize what he had seen -- then he <span class="text">jerked<label class="pop">jeck v.猛推；急拉；突然改变</label></span> his head around to look again. There was a <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span> cat standing on the corner of Privet Drive, but there wasn't a map in sight. What could he have been thinking of? It must have been a trick of the light. Mr. Dursley <span class="text">blinked<label class="pop">blink v.眨眼，忽视，（灯光等）闪烁，望着</label></span> and stared at the cat. It stared back. As Mr. Dursley drove around the corner and up the road, he watched the cat in his mirror. It was now reading the sign that said Privet Drive -- no, looking at the sign; cats couldn't read maps or signs. Mr. Dursley gave himself a little shake and put the cat out of his mind. As he drove toward town he thought of nothing except a large order of drills he was hoping to get that day.  
 
-　　But on the edge of town, drills were driven out of his mind by something else. As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about. People in <span class="text">cloaks<label class="pop">cloak n.披风，斗篷，遮盖物</label></span>. Mr. Dursley couldn't bear people who dressed in funny clothes -- the <span class="text">get-ups<label class="pop">get-up n.（奇特或滑稽的）服装，装束</label></span> you saw on young people! He supposed this was some stupid new fashion. He drummed his fingers on the <span class="text">steering wheel<label class="pop">phrase.方向盘</label></span> and his eyes fell on a huddle of these weirdos standing quite close by. They were whispering excitedly together. Mr. Dursley was <span class="text">enraged<label class="pop">adj.暴怒的，忿怒填胸的</label></span> to see that a couple of them weren't young at all; why, that man had to be older than he was, and wearing an emerald-green cloak! <span class="text">The nerve of him<label class="pop">phrase.不知羞耻</label></span>! But then it struck Mr. Dursley that this was probably some silly <span class="text">stunt<label class="pop">n.噱头，（尤指电影中的）特技表演，意在引人注意的花招，愚蠢行为</label></span> -- these people were obviously collecting for something... yes, that would be it. The traffic moved on and a few minutes later, Mr. Dursley arrived in the Grunnings parking lot, his mind back on drills.  
+　　But on the edge of town, drills were driven out of his mind by something else. As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about. People in <span class="text">cloaks<label class="pop">cloak n.披风，斗篷，遮盖物</label></span>. Mr. Dursley couldn't bear people who dressed in funny clothes -- the <span class="text">get-ups<label class="pop">get-up n.（奇特或滑稽的）服装，装束</label></span> you saw on young people! He supposed this was some stupid new fashion. He drummed his fingers on the <span class="text">steering wheel<label class="pop">phrase.方向盘</label></span> and his eyes fell on a huddle of these weirdos standing quite close by. They were whispering excitedly together. Mr. Dursley was <span class="text">enraged<label class="pop">adj.暴怒的，忿怒填胸的</label></span> to see that a couple of them weren't young at all; why, that man had to be older than he was, and wearing an <span class="text">emerald<label class="pop">祖母绿的，翡翠，祖母绿</label></span>-green cloak! <span class="text">The nerve of him<label class="pop">phrase.不知羞耻</label></span>! But then it struck Mr. Dursley that this was probably some silly <span class="text">stunt<label class="pop">n.噱头，（尤指电影中的）特技表演，意在引人注意的花招，愚蠢行为</label></span> -- these people were obviously collecting for something... yes, that would be it. The traffic moved on and a few minutes later, Mr. Dursley arrived in the Grunnings parking lot, his mind back on drills.  
 
 　　Mr. Dursley always sat with his back to the window in his office on the ninth floor. If he hadn't, he might have found it harder to concentrate on drills that morning. He didn't see the owls swoop ing past in broad daylight, though people down in the street did; they pointed and gazed open- mouthed as owl after owl sped overhead. Most of them had never seen an owl even at nighttime. Mr. Dursley, however, had a perfectly normal, owl-free morning. He yelled at five different people. He made several important telephone calls and shouted a bit more. He was in a very good mood until lunchtime, when he thought he'd stretch his legs and walk across the road to buy himself a <span class="text">bun<label class="pop">n.小圆面包,(发型)圆发髻</label></span> from the bakery.  
 
@@ -85,13 +85,13 @@ drills：钻头
 
 　　Nothing like this man had ever been seen on Privet Drive. He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to <span class="text">tuck<label class="pop">把...塞入；把...藏入</label></span> into his belt. He was wearing long <span class="text">robes<label class="pop">robe n.长袍，罩袍</label></span>, a purple cloak that swept the ground, and high-heeled, buckled boots. His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and <span class="text">crooked<label class="pop">adj.不自然的，歪向一边的</label></span>, as though it had been broken at least twice. This man's name was Albus Dumbledore.  
 
-　　Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy rummaging in his cloak, looking for something. But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street. For some reason, the sight of the cat seemed to amuse him. He chuckled and muttered, "I should have known."  
+　　Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy <span class="text">rummaging<label class="pop">rummage v.翻寻，乱翻</label></span> in his cloak, looking for something. But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street. For some reason, the sight of the cat seemed to amuse him. He <span class="text">chuckled<label class="pop">轻声低笑，吃吃的笑</label></span> and <span class="text">muttered<label class="pop">mutter. 低语，咕哝</label></span>, "I should have known."  
 
 　　He found what he was looking for in his inside pocket. It seemed to be a silver cigarette lighter. He flicked it open, held it up in the air, and clicked it. The nearest street lamp went out with a little pop. He clicked it again -- the next lamp flickered into darkness. Twelve times he clicked the Put-Outer, until the only lights left on the whole street were two tiny pinpricks in the distance, which were the eyes of the cat watching him. If anyone looked out of their window now, even beady-eyed Mrs. Dursley, they wouldn't be able to see anything that was happening down on the pavement. Dumbledore slipped the Put-Outer back inside his cloak and set off down the street toward number four, where he sat down on the wall next to the cat. He didn't look at it, but after a moment he spoke to it.  
 
-　　"Fancy seeing you here, Professor McGonagall."  
+　　"<span class="text">Fancy<label class="pop">想要，想做。真想不到，太意外</label></span> seeing you here, Professor McGonagall."  
 
-　　He turned to smile at the <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span>, but it had gone. Instead he was smiling at a rather <span class="text">severe-looking<label class="pop">n. 严肃的</label></span> woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes. She, too, was wearing a cloak, an emerald one. Her black hair <span class="text">was drawn into a tight bun<label class="pop">n. 被卷成一个紧密的发髻</label></span>. She looked distinctly <span class="text">ruffled<label class="pop">n. 起伏的，不平的，起皱的</label></span>.  
+　　He turned to smile at the <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span>, but it had gone. Instead he was smiling at a rather <span class="text">severe-looking<label class="pop">n. 严肃的</label></span> woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes. She, too, was wearing a cloak, an <span class="text">emerald<label class="pop">祖母绿的，翡翠，祖母绿</label></span> one. Her black hair <span class="text">was drawn into a tight bun<label class="pop">n. 被卷成一个紧密的发髻</label></span>. She looked distinctly <span class="text">ruffled<label class="pop">n. 起伏的，不平的，起皱的</label></span>.  
 
 　　"How did you know it was me?" she asked.  
 
@@ -103,53 +103,53 @@ drills：钻头
 
 　　Professor McGonagall sniffed angrily.  
 
-　　"Oh yes, everyone's celebrating, all right," she said impatiently. "You'd think they'd be a bit more careful, but no -- even the Muggles have noticed something's going on. It was on their news." She <span class="text">jerked<label class="pop">jeck v.猛推；急拉；突然改变</label></span> her head back at the Dursleys' dark living-room window. "I heard it. Flocks of owls... shooting stars.... Well, they're not completely stupid. They were bound to notice something. Shooting stars down in Kent -- I'll bet that was Dedalus Diggle. He never had much sense."  
+　　"Oh yes, everyone's celebrating, all right," she said impatiently. "You'd think they'd be a bit more careful, but no -- even the Muggles have noticed something's going on. It was on their news." She <span class="text">jerked<label class="pop">jeck v.猛推；急拉；突然改变</label></span> her head back at the Dursleys' dark living-room window. "I heard it. <span class="text">Flocks<label class="pop">flock n.兽群，鸟群，一大群</label></span> of owls... shooting stars.... Well, they're not completely stupid. They were bound to notice something. Shooting stars down in Kent -- I'll bet that was Dedalus Diggle. He never had much sense."  
 
-　　"You can't blame them," said Dumbledore gently. "We've had precious little to celebrate for eleven years."  
+　　"You can't blame them," said Dumbledore gently. "We've had <span class="text">precious<label class="pop">珍稀的，宝贵的</label></span> little to celebrate for eleven years."  
 
-　　"I know that," said Professor McGonagall irritably. "But that's no reason to lose our heads. People are being downright careless, out on the streets in broad daylight, not even dressed in Muggle clothes, swapping rumors."  
+　　"I know that," said Professor McGonagall <span class="text">irritably<label class="pop">性急地，暴躁地，过敏地</label></span>. "But that's no reason to lose our heads. People are being <span class="text">downright<label class="pop">adv.完全，adj.彻头彻尾的</label></span> careless, <span class="text">out on the streets<label class="pop">无家可归，没有工作</label></span> in broad daylight, not even dressed in Muggle clothes, swapping rumors."  
 
 　　She threw a sharp, sideways glance at Dumbledore here, as though hoping he was going to tell her something, but he didn't, so she went on. "A fine thing it would be if, on the very day YouKnow-Who seems to have disappeared at last, the Muggles found out about us all. I suppose he really has gone, Dumbledore?"  
 
-　　"It certainly seems so," said Dumbledore. "We have much to be thankful for. Would you care for a lemon drop?"  
+　　"It certainly seems so," said Dumbledore. "We have much to be thankful for. Would you care for a <span class="text">sherbet<label class="pop">冰冻果子露</label></span> lemon?"  
 
 　　"A what?"  
 
-　　"A lemon drop. They're a kind of Muggle sweet I'm rather fond of"  
+　　"A <span class="text">sherbet<label class="pop">冰冻果子露</label></span> lemon. They're a kind of Muggle sweet I'm rather fond of"  
 
-　　"No, thank you," said Professor McGonagall coldly, as though she didn't think this was the moment for lemon drops. "As I say, even if You-Know-Who has gone -"  
+　　"No, thank you," said Professor McGonagall coldly, as though she didn't think this was the moment for <span class="text">sherbet<label class="pop">冰冻果子露</label></span> lemons. "As I say, even if You-Know-Who has gone -"  
 
-　　"My dear Professor, surely a sensible person like yourself can call him by his name? All this 'You- Know-Who' nonsense -- for eleven years I have been trying to persuade people to call him by his proper name: Voldemort." Professor McGonagall flinched, but Dumbledore, who was unsticking two lemon drops, seemed not to notice. "It all gets so confusing if we keep saying 'You-Know-Who.' I have never seen any reason to be frightened of saying Voldemort's name.  
+　　"My dear Professor, surely a sensible person like yourself can call him by his name? All this 'You- Know-Who' nonsense -- for eleven years I have been trying to persuade people to call him by his proper name: Voldemort." Professor McGonagall <span class="text">flinched<label class="pop">flinch v.畏缩，退缩</label></span>, but Dumbledore, who was unsticking two <span class="text">sherbet<label class="pop">冰冻果子露</label></span> lemons, seemed not to notice. "It all gets so confusing if we keep saying 'You-Know-Who.' I have never seen any reason to be frightened of saying Voldemort's name.  
 
 　　"I know you haven 't, said Professor McGonagall, sounding half exasperated, half admiring. "But you're different. Everyone knows you're the only one You-Know- oh, all right, Voldemort, was frightened of."  
 
-　　"You flatter me," said Dumbledore calmly. "Voldemort had powers I will never have."  
+　　"You <span class="text">flatter<label class="pop">v.奉承，讨好，使感到高兴</label></span> me," said Dumbledore calmly. "Voldemort had powers I will never have."  
 
 　　"Only because you're too -- well -- noble to use them."  
 
-　　"It's lucky it's dark. I haven't blushed so much since Madam Pomfrey told me she liked my new earmuffs."  
+　　"It's lucky it's dark. I haven't blushed so much since Madam Pomfrey told me she liked my new <span class="text">earmuffs<label class="pop">护耳</label></span>."  
 
 　　Professor McGonagall shot a sharp look at Dumbledore and said, "The owls are nothing next to the rumors that are flying around. You know what everyone's saying? About why he's disappeared? About what finally stopped him?"  
 
-　　It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a piercing stare as she did now. It was plain that whatever "everyone" was saying, she was not going to believe it until Dumbledore told her it was true. Dumbledore, however, was choosing another lemon drop and did not answer.  
+　　It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a <span class="text">piercing<label class="pop">v.刺穿，刺破，穿透</label></span> stare as she did now. It was<span class="text"> plain<label class="pop">清晰的，清楚的，简朴的，单纯的。平原</label></span> that whatever "everyone" was saying, she was not going to believe it until Dumbledore told her it was true. Dumbledore, however, was choosing another <span class="text">sherbet<label class="pop">冰冻果子露</label></span> lemon and did not answer.  
 
 　　"What they're saying," she pressed on, "is that last night Voldemort turned up in Godric's Hollow. He went to find the Potters. The rumor is that Lily and James Potter are -- are -- that they're -- dead. "  
 
-　　Dumbledore bowed his head. Professor McGonagall gasped.  
+　　Dumbledore bowed his head. Professor McGonagall <span class="text">gasped<label class="pop">喘息，透不过气，气喘吁吁</label></span>.  
 
 　　"Lily and James... I can't believe it... I didn't want to believe it... Oh, Albus..."  
 
-　　Dumbledore reached out and patted her on the shoulder. "I know... I know..." he said heavily.  
+　　Dumbledore reached out and <span class="text">patted<label class="pop">pat v.(喜爱的)拍打，n.拍打</label></span> her on the shoulder. "I know... I know..." he said heavily.  
 
-　　Professor McGonagall's voice trembled as she went on. "That's not all. They're saying he tried to kill the Potter's son, Harry. But -- he couldn't. He couldn't kill that little boy. No one knows why, or how, but they're saying that when he couldn't kill Harry Potter, Voldemort's power somehow broke -- and that's why he's gone.  
+　　Professor McGonagall's voice <span class="text">trembled<label class="pop">v.颤抖，发抖。n.战栗</label></span> as she went on. "That's not all. They're saying he tried to kill the Potter's son, Harry. But -- he couldn't. He couldn't kill that little boy. No one knows why, or how, but they're saying that when he couldn't kill Harry Potter, Voldemort's power somehow broke -- and that's why he's gone.  
 
 　　Dumbledore nodded glumly.  
 
-　　"It's -- it's true?" faltered Professor McGonagall. "After all he's done... all the people he's killed... he couldn't kill a little boy? It's just astounding... of all the things to stop him... but how in the name of heaven did Harry survive?"  
+　　"It's -- it's true?" <span class="text">faltered<label class="pop">falter 蹒跚，结巴，踌躇，衰退</label></span> Professor McGonagall. "After all he's done... all the people he's killed... he couldn't kill a little boy? It's just <span class="text">astounding<label class="pop">令人震惊的，使大吃一惊。astound的现在分词</label></span>... of all the things to stop him... but how <span class="text">in the name of<label class="pop">为...的缘故，为了...</label></span> heaven did Harry survive?"  
 
 　　"We can only guess," said Dumbledore. "We may never know."  
 
-　　Professor McGonagall pulled out a lace handkerchief and dabbed at her eyes beneath her spectacles. Dumbledore gave a great sniff as he took a golden watch from his pocket and examined it. It was a very odd watch. It had twelve hands but no numbers; instead, little planets were moving around the edge. It must have made sense to Dumbledore, though, because he put it back in his pocket and said, "Hagrid's late. I suppose it was he who told you I'd be here, by the way?"  
+　　Professor McGonagall pulled out a lace <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and <span class="text">dabbed<label class="pop">v.轻拍，轻涂。n.少量</label></span> at her eyes beneath her spectacles. Dumbledore gave a great <span class="text">sniff <label class="pop">嗅，闻，抽鼻子</label></span>as he took a golden watch from his pocket and examined it. It was a very odd watch. It had twelve hands but no numbers; instead, little planets were moving around the edge. It must have made sense to Dumbledore, though, because he put it back in his pocket and said, "Hagrid's late. I suppose it was he who told you I'd be here, by the way?"  
 
 　　"Yes," said Professor McGonagall. "And I don't suppose you're going to tell me why you're here, of all places?"  
 
@@ -201,7 +201,7 @@ drills：钻头
 
 　　"Shhh!" hissed Professor McGonagall, "you'll wake the Muggles!"  
 
-　　"S-s-sorry," sobbed Hagrid, taking out a large, spotted handkerchief and burying his face in it. "But I c-c-can't stand it -- Lily an' James dead -- an' poor little Harry off ter live with Muggles -"  
+　　"S-s-sorry," sobbed Hagrid, taking out a large, spotted <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and burying his face in it. "But I c-c-can't stand it -- Lily an' James dead -- an' poor little Harry off ter live with Muggles -"  
 
 　　"Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or we'll be found," Professor McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two. For a full minute the three of them stood and looked at the little bundle; Hagrid's shoulders shook, Professor McGonagall <span class="text">blinked<label class="pop">blink v.眨眼，忽视，（灯光等）闪烁，望着</label></span> furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out.  
 
