@@ -183,7 +183,7 @@ drills：钻头
   
 　　"No problems, were there?"  
   
-　　"No, sir -- house was almost destroyed, but I got him out all right before the Muggles started swarmin' around. He fell asleep as we was flyin' over Bristol."  
+　　"No, sir -- house was almost destroyed, but I got him out all right before the Muggles started <span class="text">swarmin<label class="pop">swarming 蜂拥 云集</label></span>' around. He fell asleep as we was flyin' over Bristol."  
   
 　　Dumbledore and Professor McGonagall bent forward over the bundle of blankets. Inside, just visible, was a baby boy, fast asleep. Under a tuft of jet-black hair over his forehead they could see a curiously shaped cut, like a bolt of lightning.  
   
@@ -201,7 +201,7 @@ drills：钻头
   
 　　"Shhh!" hissed Professor McGonagall, "you'll wake the Muggles!"  
   
-　　"S-s-sorry," sobbed Hagrid, taking out a large, spotted <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and burying his face in it. "But I c-c-can't stand it -- Lily an' James dead -- an' poor little Harry off ter live with Muggles -"  
+　　"S-s-sorry," sobbed Hagrid, taking out a large, spotted <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and burying his face in it. "But I c-c-can't stand it -- Lily <span class="text">an' <label class="pop">=and </label></span>James dead -- <span class="text">an' <label class="pop">=and </label></span>poor little Harry off<span class="text"> ter <label class="pop">to的非正式写法，由吐字不清或地方方言导致 </label></span>live with Muggles -"  
   
 　　"Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or we'll be found," Professor McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two. For a full minute the three of them stood and looked at the little bundle; Hagrid's shoulders shook, Professor McGonagall <span class="text">blinked<label class="pop">blink v.眨眼，忽视，（灯光等）闪烁，望着</label></span> furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out.  
   
