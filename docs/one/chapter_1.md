@@ -83,7 +83,7 @@ drills：钻头
   
 　　A man appeared on the corner the cat had been watching, appeared so suddenly and silently you'd have thought he'd just <span class="text">popped out<label class="pop">pop out 突然出现/熄灭/死去</label></span> of the ground. The cat's tail twitched and its eyes narrowed.  
   
-　　Nothing like this man had ever been seen on Privet Drive. He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to <span class="text">tuck<label class="pop">把...塞入；把...藏入</label></span> into his belt. He was wearing long <span class="text">robes<label class="pop">robe n.长袍，罩袍</label></span>, a purple cloak that swept the ground, and high-heeled, buckled boots. His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and <span class="text">crooked<label class="pop">adj.不自然的，歪向一边的</label></span>, as though it had been broken at least twice. This man's name was Albus Dumbledore.  
+　　Nothing like this man had ever been seen on Privet Drive. He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to <span class="text">tuck<label class="pop">把...塞入；把...藏入</label></span> into his belt. He was wearing long <span class="text">robes<label class="pop">robe n.长袍，罩袍</label></span>, a purple cloak that swept the ground, and high-heeled, buckled boots. His blue eyes were light, bright, and sparkling behind half-moon <span class="text">spectacles<label class="pop">n.眼镜</label></span> and his nose was very long and <span class="text">crooked<label class="pop">adj.不自然的，歪向一边的</label></span>, as though it had been broken at least twice. This man's name was Albus Dumbledore.  
   
 　　Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy <span class="text">rummaging<label class="pop">rummage v.翻寻，乱翻</label></span> in his cloak, looking for something. But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street. For some reason, the sight of the cat seemed to amuse him. He <span class="text">chuckled<label class="pop">轻声低笑，吃吃的笑</label></span> and <span class="text">muttered<label class="pop">mutter. 低语，咕哝</label></span>, "I should have known."  
   
@@ -149,17 +149,17 @@ drills：钻头
   
 　　"We can only guess," said Dumbledore. "We may never know."  
   
-　　Professor McGonagall pulled out a lace <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and <span class="text">dabbed<label class="pop">v.轻拍，轻涂。n.少量</label></span> at her eyes beneath her spectacles. Dumbledore gave a great <span class="text">sniff <label class="pop">嗅，闻，抽鼻子</label></span>as he took a golden watch from his pocket and examined it. It was a very odd watch. It had twelve hands but no numbers; instead, little planets were moving around the edge. It must have made sense to Dumbledore, though, because he put it back in his pocket and said, "Hagrid's late. I suppose it was he who told you I'd be here, by the way?"  
+　　Professor McGonagall pulled out a lace <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and <span class="text">dabbed<label class="pop">v.轻拍，轻涂。n.少量</label></span> at her eyes beneath her <span class="text">spectacles<label class="pop">n.眼镜</label></span>. Dumbledore gave a great <span class="text">sniff <label class="pop">嗅，闻，抽鼻子</label></span>as he took a golden watch from his pocket and examined it. It was a very odd watch. It had twelve hands but no numbers; instead, little planets were moving around the edge. It must have made sense to Dumbledore, though, because he put it back in his pocket and said, "Hagrid's late. I suppose it was he who told you I'd be here, by the way?"  
   
 　　"Yes," said Professor McGonagall. "And I don't suppose you're going to tell me why you're here, of all places?"  
   
 　　"I've come to bring Harry to his aunt and uncle. They're the only family he has left now."  
   
-　　"You don't mean -- you can't mean the people who live here?" cried Professor McGonagall, jumping to her feet and pointing at number four. "Dumbledore -- you can't. I've been watching them all day. You couldn't find two people who are less like us. And they've got this son -- I saw him kicking his mother all the way up the street, screaming for sweets. Harry Potter come and live here!"  
+　　"You don't mean -- you can't mean the people who live here?" cried Professor McGonagall, jumping to her feet and pointing at number four. "Dumbledore -- you can't. I've been watching them all day. You couldn't find two people who are less like us. And they've got this son -- I saw him <span class="text">kicking<label class="pop">kick v.踢，踹</label></span> his mother all the way up the street, screaming for sweets. Harry Potter come and live here!"  
   
 　　"It's the best place for him," said Dumbledore firmly. "His aunt and uncle will be able to explain everything to him when he's older. I've written them a letter."  
   
-　　"A letter?" repeated Professor McGonagall faintly, sitting back down on the wall. "Really, Dumbledore, you think you can explain all this in a letter? These people will never understand him! He'll be famous -- a legend -- I wouldn't be surprised if today was known as Harry Potter day in the future -- there will be books written about Harry -- every child in our world will know his name!"  
+　　"A letter?" repeated Professor McGonagall <span class="text">faintly<label class="pop">adv.淡淡，隐约地，有气无力地</label></span>, sitting back down on the wall. "Really, Dumbledore, you think you can explain all this in a letter? These people will never understand him! He'll be famous -- a legend -- I wouldn't be surprised if today was known as Harry Potter day in the future -- there will be books written about Harry -- every child in our world will know his name!"  
   
 　　"Exactly," said Dumbledore, looking very seriously over the top of his half-moon glasses. "It would be enough to turn any boy's head. Famous before he can walk and talk! Famous for something he won't even remember! CarA you see how much better off he'll be, growing up away from all that until he's ready to take it?"  
   
@@ -171,51 +171,58 @@ drills：钻头
   
 　　I would trust Hagrid with my life," said Dumbledore.  
   
-　　"I'm not saying his heart isn't in the right place," said Professor McGonagall grudgingly, "but you can't pretend he's not careless. He does tend to -- what was that?"  
+　　"I'm not saying his heart isn't in the right place," said Professor McGonagall <span class="text">grudgingly<label class="pop">adj.勉强地，不情不愿地</label></span>, "but you can't pretend he's not careless. He does tend to -- what was that?"  
   
-　　A low rumbling sound had broken the silence around them. It grew steadily louder as they looked up and down the street for some sign of a headlight; it swelled to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them.  
+　　A low <span class="text">rumbling<label class="pop">低沉而持续的声音，传言，传闻，谣传</label></span> sound had broken the silence around them. It grew steadily louder as they looked up and down the street for some sign of a headlight; it <span class="text">swelled<label class="pop">swell 膨胀，肿胀凸出</label></span> to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them.  
   
-　　If the motorcycle was huge, it was nothing to the man sitting astride it. He was almost twice as tall as a normal man and at least five times as wide. He looked simply too big to be allowed, and so wild - long tangles of bushy black hair and beard hid most of his face, he had hands the size of trash can lids, and his feet in their leather boots were like baby dolphins. In his vast, muscular arms he was holding a bundle of blankets.  
+　　If the motorcycle was huge, it was nothing to the man sitting <span class="text">astride<label class="pop">adv.岔开两腿，跨着，骑着</label></span> it. He was almost twice as tall as a normal man and at least five times as wide. He looked simply too big to be allowed, and so wild - long <span class="text">tangles<label class="pop">tangle n.乱糟糟的一堆；混乱；纠纷</label></span> of bushy black hair and beard hid most of his face, he had hands the size of trash can <span class="text">lids<label class="pop">lid n.盖子；眼睑；限制</label></span>, and his feet in their leather boots were like baby <span class="text">dolphins<label class="pop">dolphin n.海豚，大型长鼻海洋生物</label></span>. In his vast, muscular arms he was holding a <span class="text">bundle<label class="pop">n.捆，束</label></span> of blankets.  
   
-　　"Hagrid," said Dumbledore, sounding relieved. "At last. And where did you get that motorcycle?"  
+　　"Hagrid," said Dumbledore, sounding <span class="text">relieved<label class="pop">adj. 感到宽慰的，放心的，显得开心的</label></span>. "At last. And where did you get that motorcycle?"  
   
-　　"Borrowed it, Professor Dumbledore, sit," said the giant, climbing carefully off the motorcycle as he spoke. "Young Sirius Black lent it to me. I've got him, sir."  
+　　"Borrowed it, Professor Dumbledore, sit," said the giant, climbing carefully off the motorcycle as he spoke. "Young <span class="text">Sirius<label class="pop">n. 天狼星</label></span> Black lent it to me. I've got him, sir."  
   
 　　"No problems, were there?"  
   
 　　"No, sir -- house was almost destroyed, but I got him out all right before the Muggles started <span class="text">swarmin<label class="pop">swarming 蜂拥 云集</label></span>' around. He fell asleep as we was flyin' over Bristol."  
   
-　　Dumbledore and Professor McGonagall bent forward over the bundle of blankets. Inside, just visible, was a baby boy, fast asleep. Under a tuft of jet-black hair over his forehead they could see a curiously shaped cut, like a bolt of lightning.  
+　　Dumbledore and Professor McGonagall bent forward over the <span class="text">bundle<label class="pop">n.捆，束</label></span> of blankets. Inside, just visible, was a baby boy, fast asleep. Under a <span class="text">tuft<label class="pop">n.一绺头发</label></span> of <span class="text">jet-black<label class="pop">adj. 乌黑，乌亮，墨黑的</label></span> hair over his forehead they could see a <span class="text">curiously<label class="pop">adv.好奇地，奇怪地</label></span> shaped cut, like a bolt of lightning.  
   
 　　"Is that where -?" whispered Professor McGonagall.  
   
-　　"Yes," said Dumbledore. "He'll have that scar forever."  
+　　"Yes," said Dumbledore. "He'll have that <span class="text">scar <label class="pop">n. 伤疤；创伤；煞风景之处</label></span>forever."  
   
 　　"Couldn't you do something about it, Dumbledore?"  
   
-　　"Even if I could, I wouldn't. Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground. Well -- give him here, Hagrid -- we'd better get this over with."  
+　　"Even if I could, I wouldn't. Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground. Well -- give him here, Hagrid -- we'd better get this over with."
+
+::: details 详细
+get over：从（疾病、失望、震惊等）中恢复过来
+:::
   
 　　Dumbledore took Harry in his arms and turned toward the Dursleys' house.  
   
-　　"Could I -- could I say good-bye to him, sir?" asked Hagrid. He bent his great, shaggy head over Harry and gave him what must have been a very scratchy, whiskery kiss. Then, suddenly, Hagrid let out a howl like a wounded dog.  
+　　"Could I -- could I say good-bye to him, sir?" asked Hagrid. He bent his great, <span class="text">shaggy<label class="pop">adj. 长而乱的。乱蓬蓬的，头发蓬乱的</label></span> head over Harry and gave him what must have been a very <span class="text">scratchy<label class="pop">adj.扎人的，粗糙刺激皮肤的，带沙沙的杂音的，潦草的</label></span>, whiskery kiss. Then, suddenly, Hagrid let out a <span class="text">howl<label class="pop">n.狂吠；嚎叫</label></span> like a wounded dog.  
   
 　　"Shhh!" hissed Professor McGonagall, "you'll wake the Muggles!"  
   
-　　"S-s-sorry," sobbed Hagrid, taking out a large, spotted <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and burying his face in it. "But I c-c-can't stand it -- Lily <span class="text">an' <label class="pop">=and </label></span>James dead -- <span class="text">an' <label class="pop">=and </label></span>poor little Harry off<span class="text"> ter <label class="pop">to的非正式写法，由吐字不清或地方方言导致 </label></span>live with Muggles -"  
+　　"S-s-sorry," <span class="text">sobbed<label class="pop">sob v.呜咽，抽噎，啜泣</label></span> Hagrid, taking out a large, spotted <span class="text">handkerchief<label class="pop">手帕，纸巾</label></span> and burying his face in it. "But I c-c-can't stand it -- Lily <span class="text">an' <label class="pop">=and </label></span>James dead -- <span class="text">an' <label class="pop">=and </label></span>poor little Harry off<span class="text"> ter <label class="pop">to的非正式写法，由吐字不清或地方方言导致 </label></span>live with Muggles -"  
   
-　　"Yes, yes, it's all very sad, but get a grip on yourself, Hagrid, or we'll be found," Professor McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two. For a full minute the three of them stood and looked at the little bundle; Hagrid's shoulders shook, Professor McGonagall <span class="text">blinked<label class="pop">blink v.眨眼，忽视，（灯光等）闪烁，望着</label></span> furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out.  
+　　"Yes, yes, it's all very sad, but <span class="text">get a grip<label class="pop">请稳住；请冷静，别慌</label></span> on yourself, Hagrid, or we'll be found," Professor McGonagall whispered, patting Hagrid <span class="text">gingerly<label class="pop">adv. 小心翼翼地，战战兢兢地</label></span> on the arm as Dumbledore stepped over the low garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two. For a full minute the three of them stood and looked at the little <span class="text">bundle<label class="pop">n.捆，束</label></span>; Hagrid's shoulders shook, Professor McGonagall <span class="text">blinked<label class="pop">blink v.眨眼，忽视，（灯光等）闪烁，望着</label></span> <span class="text">furiously<label class="pop">adv.暴怒的</label></span>, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out.  
   
 　　"Well," said Dumbledore finally, "that's that. We've no business staying here. We may as well go and join the celebrations."  
   
-　　"Yeah," said Hagrid in a very muffled voice, "I'll be takin' Sirius his bike back. G'night, Professor McGonagall -- Professor Dumbledore, sir."  
+　　"Yeah," said Hagrid in a very <span class="text">muffled<label class="pop">adj.沉闷的，压抑的，模糊不清的</label></span> voice, "I'll be takin' <span class="text">Sirius<label class="pop">n. 天狼星</label></span> his bike back. G'night, Professor McGonagall -- Professor Dumbledore, sir."  
   
 　　Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and kicked the engine into life; with a roar it rose into the air and off into the night.  
   
 　　"I shall see you soon, I expect, Professor McGonagall," said Dumbledore, nodding to her. Professor McGonagall blew her nose in reply.  
   
-　　Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver Put-Outer. He clicked it once, and twelve balls of light sped back to their street lamps so that Privet Drive glowed suddenly orange and he could make out a <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span> cat slinking around the corner at the other end of the street. He could just see the bundle of blankets on the step of number four.  
+　　Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver Put-Outer. He clicked it once, and twelve balls of light sped back to their street lamps so that Privet Drive <span class="text">glowed<label class="pop">glow v.发微弱而稳定的光；发光</label></span> suddenly orange and he could make out a <span class="text">tabby<label class="pop">n. 斑猫（毛皮灰色或褐色，带有深色斑条或斑点）</label></span> cat <span class="text">slinking<label class="pop">v.偷偷摸摸地走，躲躲闪闪地走，溜</label></span> around the corner at the other end of the street. He could just see the <span class="text">bundle<label class="pop">n.捆，束</label></span> of blankets on the step of number four.  
   
-　　"Good luck, Harry," he murmured. He turned on his heel and with a swish of his cloak, he was gone.  
-  
-　　A breeze <span class="text">ruffled<label class="pop">n. 起伏的，不平的，起皱的</label></span> the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter rolled over inside his blankets without waking up. One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley... He couldn't know that at this very moment, people meeting in secret all over the country were holding up their glasses and saying in hushed voices: "To Harry Potter -- the boy who lived!"  
+　　"Good luck, Harry," he <span class="text">murmured<label class="pop">murmur v.低声说；私下抱怨，嘀咕</label></span>. He turned on his heel and with a <span class="text">swish<label class="pop">v.唰地挥动，使快速空中移动</label></span> of his cloak, he was gone.  
+  ::: details phrase
+  turn on one's heel   急向后转；转身离去
+  :::
+
+　　A <span class="text">breeze<label class="pop">n.微风，和风，轻而易举的事</label></span> <span class="text">ruffled<label class="pop">n. 起伏的，不平的，起皱的</label></span> the neat <span class="text">hedges<label class="pop">hedge v.种树篱围住；n.树篱；防护物</label></span> of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter <span class="text">rolled over<label class="pop">adj. 从（边）上滚下，翻转</label></span> inside his blankets without waking up. One small hand <span class="text">closed on<label class="pop">close on phrase.接近于；紧跟着</label></span> the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being <span class="text">prodded<label class="pop">prod 戳，捅</label></span> and <span class="text">pinched<label class="pop">pinch的过去式和过去分词。捏，掐</label></span> by his cousin Dudley... He couldn't know that at this very moment, people meeting in secret all over the country were holding up their glasses and saying in <span class="text">hushed<label class="pop">adj. 寂静的，宁静的，轻的，低声的</label></span> voices: "To Harry Potter -- the boy who lived!"  
 　　
